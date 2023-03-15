@@ -1,0 +1,6 @@
+pb_data
+frontend/.next
+frontend/out
+frontend/node_modules
+app
+.git
