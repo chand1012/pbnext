@@ -1,7 +1,29 @@
+install:
+  #!/bin/bash
+  cd frontend
+  yarn
+  cd ..
+  go get -v ./...
+
+add pkg_name:
+  #!/bin/bash
+  cd frontend
+  yarn add {{pkg_name}}
+  cd ..
+
+remove pkg_name:
+  #!/bin/bash
+  cd frontend
+  yarn remove {{pkg_name}}
+  cd ..
+
+get url:
+  go get -u {{url}}
+
 frontend-dev:
   #!/bin/bash
   cd frontend
-  yarn dev
+  PORT=3000 yarn dev
   cd ..
 
 dev:
