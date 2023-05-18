@@ -2107,10 +2107,10 @@ picomatch@^2.3.1:
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.1.tgz#3ba3833733646d9d3e4995946c1365a67fb07a42"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
-pocketbase@^0.12.1:
-  version "0.12.1"
-  resolved "https://registry.yarnpkg.com/pocketbase/-/pocketbase-0.12.1.tgz#f3655ca9d8b28729401fc6b55552e4708d4a04ed"
-  integrity sha512-kihThVla/JontCGA2zVGuxk1vWtz/yt7FqnL241oxd+w7RBVNzLIRKN6GolnY9DGOekNmFRb57CL24sbUm4wJA==
+pocketbase@^0.14.4:
+  version "0.14.4"
+  resolved "https://registry.yarnpkg.com/pocketbase/-/pocketbase-0.14.4.tgz#d661e25a2accb80700537fe43d97fa9b471f3803"
+  integrity sha512-FZJmZ7+tRJ6ShK9h8nZJNSPVfDIR1gukqcAjrzc7IS2zgK4PdBv7wwIJtCRdYYBxHMNAvU1uFkpQ0sWE094wuw==
 
 postcss@8.4.14:
   version "8.4.14"
